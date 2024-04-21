@@ -12,17 +12,17 @@
 
 ### 👇 A little more about me...
 
-- 🔥 &nbsp; Exploring new technologies and developing software solutions.
+-  &nbsp; Exploring new technologies and developing software solutions.
 
-- 💼 &nbsp; Working as a backend developer.
+-  &nbsp; Working as a backend developer.
 
-- 🎓 &nbsp; I have a bachelor degree in computer science.
+-  &nbsp; I have a bachelor degree in computer science.
 
-- 🌱 &nbsp; I'm on track for learning more about Web Development.
+-  &nbsp; I'm on track for learning more about Web Development.
 
-- 💬 &nbsp; Ask me about Web dev related stuff.
+-  &nbsp; Ask me about Web dev related stuff.
 
-- 💻 &nbsp; Goals Learn more technological stacks and improve my overall skills.
+-  &nbsp; Goals Learn more technological stacks and improve my overall skills.
 
 ### - Languages and Technologies...
 
