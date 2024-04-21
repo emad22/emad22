@@ -16,7 +16,7 @@
 
 -  &nbsp; Working as a backend developer.
 
--  &nbsp; I have a bachelor degree in computer science.
+-  &nbsp; I have a bachelor degree in computers and information systems.
 
 -  &nbsp; I'm on track for learning more about Web Development.
 
